@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/buddyt629" target="blank"><img src="https://img.shields.io/twitter/follow/buddyt629?logo=twitter&style=for-the-badge" alt="buddyt629" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Application**
+- 🔭 I’m currently working on an **E-Commerce Application**
 
 - 🌱 I’m currently learning **Android Studio,Python**
 
