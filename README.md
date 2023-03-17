@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shoaib Khan</h1>
-<h3 align="center"> I'm Shoaib Khan, a passionate self-taught full stack web developer and a freelance software engineer from India. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
+<h3 align="center"> I'm Shoaib Khan, a passionate self-taught full stack developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h3>
 
 <p align="left"> <a href="https://twitter.com/buddyt629" target="blank"><img src="https://img.shields.io/twitter/follow/buddyt629?logo=twitter&style=for-the-badge" alt="buddyt629" /></a> </p>
 
-- 🔭 I’m currently working on an **E-Commerce Application**
+- 🔭 I’m currently working on an **Face-Attendance-System**
 
-- 🌱 I’m currently learning **Android Studio,Python**
+- 🌱 I’m currently learning **Android Studio,Flask**
 
 - 👯 I’m looking to collaborate on **WEB-3.0 Projects**
 
